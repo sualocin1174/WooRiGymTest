@@ -9,7 +9,7 @@ public class BaekGeonHo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// 백건호
-		// 넵 파일 보여
+		// 넵 파일 보여요
 	}
 
 }
