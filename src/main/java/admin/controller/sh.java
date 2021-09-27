@@ -3,8 +3,7 @@ package admin.controller;
 public class sh {
 
 	public sh() {
-		// 채선혜
-		// ㄹㅇㅈㄹㄷㅈㄹ
+		// 채선혜 ㅇㄴㄹㅇㄴ
 	}
 
 }
