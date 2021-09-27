@@ -4,7 +4,7 @@ public class NaHyoWonTest {
 
 	public NaHyoWonTest() {
 		// 나효원 테스트 
-		// 테스트 완료
+		// 테스트 완료 수정-채선혜
 	}
 
 }
